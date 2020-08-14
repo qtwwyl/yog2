@@ -9,7 +9,7 @@ YOG2 是一个专注于 Node.js UI 中间层的应用框架。它基于 express 
 
 ### 安装yog2
 
-> 需要先安装 [node](http://nodejs.org).
+> 需要先安装 [node](http://nodejs.org). (安装node11或以下版本，亲测node12启动项目会报错)
 
 ```bash
 npm install -g yog2
